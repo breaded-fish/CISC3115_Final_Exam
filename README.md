@@ -1,7 +1,7 @@
 # CISC3115_Final_Exam
 
 ## Summary
-This program was created a final exam for CISC3115. The gist of this program was a theoretical full bank account program. The main purpose of writing this program was to implement all the concepts of Java within the course into a big program.
+This program was created as a final exam for CISC3115. The gist of this program was a theoretical full bank account program. The main purpose of writing this program was to implement all the concepts of Java within the course into a big program.
 
 ## How to run
 To run this code you must have all Java files and the two text files. 
