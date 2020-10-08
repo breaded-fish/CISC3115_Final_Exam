@@ -19,6 +19,6 @@ As stated before `Main.java` is the driver of which contains the User interface.
 
 `myOutput.txt` would be what the accounts would look like in an output.
 
-## Improvemnts
+## Improvements
 
 This code was made when I first started learning Java. One thing that definitely needs improvement would be how the code is organized. While this code does what it was designed to do, its obviously doesn't compare to what actual code is supposed to look like.
