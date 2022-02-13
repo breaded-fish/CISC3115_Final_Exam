@@ -13,7 +13,7 @@ As stated before `Main.java` is the driver of which contains the User interface.
 
 `NegativeAmountEntered.java`,`InsufficientFund.java`, and `AccountNotFound.java` are customized Exceptions. 
 
-`Interest.java`a simply add interests.
+`Interest.java` simply add interests.
 
 `myAccts.txt` are preloaded account data.
 
